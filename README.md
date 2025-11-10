@@ -1,36 +1,36 @@
-# 📚 Informační systém pro knihovnu a knihkupectví **BookFlow** 
+# Informační systém pro knihovnu a knihkupectví **BookFlow** 
 **BookFlow** je jednoduchý webový systém pro evidenci knih, členů a prodejů.  
 Cílem je propojit funkce knihovny (půjčování a správa výpůjček) a knihkupectví (evidence zásob a prodej), čímž se zefektivní práce zaměstnanců a zpřehlední celý provoz.
 
 --- 
 
-### 👥 Cílová skupina  
+### Cílová skupina  
 - Knihovníci a zaměstnanci knihkupectví  
 - Vedoucí pobočky nebo správce knihovny  
 - Registrovaní čtenáři a zákazníci  
 
-### 🎯 Cíl systému  
+### Cíl systému  
 Systém nahrazuje papírové katalogy a ruční evidenci knih.  
 Umožňuje jednoduše spravovat knižní fond, výpůjčky, rezervace i prodej knih.  
 Zaměstnanci mají přehled o dostupnosti titulů, zákazníci mohou sledovat své výpůjčky a rezervace.  
 
 ---
 
-## 👩‍💼 Základní funkce (Role a oprávnění)
+## Základní funkce (Role a oprávnění)
 
-### 📖 **Čtenář / Zákazník (běžný uživatel)**  
+### **Čtenář / Zákazník (běžný uživatel)**  
 - Prohlíží katalog knih (dostupnost, popis, cena).  
 - Vytváří a sleduje své **rezervace** a **výpůjčky**.  
 - Může hodnotit přečtené knihy nebo přidat krátkou recenzi.  
 - Vidí historii svých výpůjček a nákupů.  
 
-### 🧾 **Knihovník / Prodavač**  
+### **Knihovník / Prodavač**  
 - Přidává nové knihy do katalogu (včetně autorů, ISBN, žánrů).  
 - Eviduje výpůjčky a vrácení knih.  
 - Vede přehled o prodeji knih a skladových zásobách.  
 - Spravuje rezervace čtenářů.  
 
-### 👑 **Vedoucí / Administrátor**  
+### **Vedoucí / Administrátor**  
 - Spravuje uživatele (čtenáře i zaměstnance).  
 - Nastavuje ceny, poplatky za pozdní vrácení a slevy.  
 - Sleduje statistiky – nejčtenější knihy, nejaktivnější čtenáře, tržby z prodeje.  
@@ -38,7 +38,7 @@ Zaměstnanci mají přehled o dostupnosti titulů, zákazníci mohou sledovat sv
 
 ---
 
-## 📊 Spravovaná data  
+## Spravovaná data  
 
 | Kategorie | Příklad uchovávaných údajů |
 |------------|-----------------------------|
@@ -51,7 +51,7 @@ Zaměstnanci mají přehled o dostupnosti titulů, zákazníci mohou sledovat sv
 
 ---
 
-## 💡 Možnosti rozšíření do budoucna  
+## Možnosti rozšíření do budoucna  
 - Modul pro **online objednávky knih** a **rezervaci výpůjček** přes webové rozhraní.  
 - Automatická **upozornění e-mailem nebo SMS** při blížícím se termínu vrácení knihy.  
 - Integrace s databází ISBN pro **automatické doplňování informací o knihách**.  

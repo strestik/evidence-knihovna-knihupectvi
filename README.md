@@ -1,12 +1,8 @@
-# 📚 Informační systém pro knihovnu a knihkupectví **BookFlow**
-
-## 📝 Krátký popis  
+# 📚 Informační systém pro knihovnu a knihkupectví **BookFlow** 
 **BookFlow** je jednoduchý webový systém pro evidenci knih, členů a prodejů.  
 Cílem je propojit funkce knihovny (půjčování a správa výpůjček) a knihkupectví (evidence zásob a prodej), čímž se zefektivní práce zaměstnanců a zpřehlední celý provoz.
 
----
-
-## 🎯 Cíl systému a cílová skupina  
+--- 
 
 ### 👥 Cílová skupina  
 - Knihovníci a zaměstnanci knihkupectví  
@@ -62,6 +58,3 @@ Zaměstnanci mají přehled o dostupnosti titulů, zákazníci mohou sledovat sv
 - Pokročilé **statistiky čtenářských trendů** (nejoblíbenější žánry, autoři, období).  
 - Evidence **skladových zásob a dodavatelů** pro knihkupectví.  
 
----
-
-## 📁 Název repozitáře  

@@ -35,6 +35,7 @@ Zaměstnanci mají přehled o dostupnosti titulů, zákazníci mohou sledovat sv
 - Nastavuje ceny, poplatky za pozdní vrácení a slevy.  
 - Sleduje statistiky – nejčtenější knihy, nejaktivnější čtenáře, tržby z prodeje.  
 - Exportuje data (např. měsíční přehled výpůjček a prodejů).  
+![alt text](https://github.com/strestik/evidence-knihovna-knihupectvi/blob/[branch]/image.jpg?raw=true)
 
 ---
 
